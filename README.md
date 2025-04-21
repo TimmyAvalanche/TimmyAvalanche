@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TimmyAvalanche
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning how to join data in SQL
-- 💞️ I’m looking to collaborate on study bodies, projects that involves me using basic skills and the knowledge and I have gained in data science
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently improving my use of R for Data Analysis
+- 💞️ I’m looking to collaborate on Data Analytics and Visualization projects using Power BI and Tableau.
 - 📫 How to reach me, write to me @ oluwajuw@gmail.com
 
 <!---
